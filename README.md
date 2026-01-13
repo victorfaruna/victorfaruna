@@ -12,6 +12,8 @@ I’m a full-stack developer with a strong focus on building practical, well-des
 ![](https://nirzak-streak-stats.vercel.app/?user=victorfaruna&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfaruna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+In recent years, I’ve been increasingly focused on fintech and Web3 products, especially infrastructure-level tools that solve real operational problems. I’m particularly interested in improving user experience in complex systems, making things like payments, wallets, and onchain workflows feel simple and intuitive for everyday users.<br><br>Beyond coding, I enjoy thinking about product strategy, system design, and how technology can be used to build sustainable businesses. I’m always learning, experimenting, and refining my craft, whether that means exploring new frameworks, improving performance, or understanding how systems work at a deeper level.<br><br>I’m driven by building meaningful products, collaborating with smart people, and shipping work I’m proud of.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=victorfaruna&icon=0&color=0)](https://visitcount.itsvg.in)
 
