@@ -1,7 +1,5 @@
-# 💫 About Me:
-<h2>I’m a full-stack developer with a strong focus on building practical, well-designed products across web and mobile platforms. I enjoy working across the entire product lifecycle, from shaping ideas and designing user experiences to implementing scalable backend systems and shipping production-ready applications.<br><br>My background spans frontend, backend, and mobile development, with hands-on experience using modern tools like React, Next.js, React Native, and server-side technologies. I care deeply about clean architecture, performance, and writing code that’s easy to understand and maintain. For me, good software is not just about features, but about reliability, usability, and long-term scalability.
-</h2>
-
+# Something About Me:
+I’m a full-stack developer with a strong focus on building practical, well-designed products across web and mobile platforms. I enjoy working across the entire product lifecycle, from shaping ideas and designing user experiences to implementing scalable backend systems and shipping production-ready applications.<br><br>My background spans frontend, backend, and mobile development, with hands-on experience using modern tools like React, Next.js, React Native, and server-side technologies. I care deeply about clean architecture, performance, and writing code that’s easy to understand and maintain. For me, good software is not just about features, but about reliability, usability, and long-term scalability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-faruna-53b20a306) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xFaruna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farunavictor043@gmail.com) 
