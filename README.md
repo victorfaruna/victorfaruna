@@ -1,6 +1,6 @@
 # Victor Faruna
 
-Building foundational systems for the future of finance.
+Building infrastructure that powers digital economies.
 
 ---
 
