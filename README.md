@@ -1,6 +1,6 @@
 # Victor Faruna
 
-Designing financial infrastructure for the onchain workforce.
+Building foundational systems for the future of finance.
 
 ---
 
