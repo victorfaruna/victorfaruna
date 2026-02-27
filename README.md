@@ -1,4 +1,4 @@
-## Faruna
+## Victor Faruna
 
 Building infrastructure that powers digital economies.
 
