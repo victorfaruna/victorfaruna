@@ -12,7 +12,7 @@ My work centers around building foundational layers, not surface features.
 
 ## Current Work
 
-Founder & Engineer — Chainroll  
+Founder & Engineer @ Chainroll  
 Financial Operating System for onchain teams.
 
 Building:
