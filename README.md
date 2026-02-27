@@ -1,3 +1,4 @@
+## About
 I prioritize building production-grade systems at the intersection of:
 
 - Fintech architecture  
