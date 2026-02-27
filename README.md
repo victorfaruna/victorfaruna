@@ -8,7 +8,6 @@ I prioritize building production-grade systems at the intersection of:
 
 My work centers around building foundational layers, not surface features.
 
----
 
 ## Current Work
 
@@ -28,7 +27,6 @@ TypeScript • NestJS • React • Next.js • React Native
 Solidity • Supabase • PostgreSQL  
 System architecture • API design • Production infrastructure
 
----
 
 ## Contact
 
