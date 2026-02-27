@@ -1,11 +1,3 @@
-## Hi, I'm Faruna...
-
-I build infrastructure that powers digital economies.
-
----
-
-## Focus
-
 I prioritize building production-grade systems at the intersection of:
 
 - Fintech architecture  
