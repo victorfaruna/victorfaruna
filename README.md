@@ -1,4 +1,4 @@
-Faruna
+## Faruna
 
 Building infrastructure that powers digital economies.
 
