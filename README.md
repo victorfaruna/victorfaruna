@@ -1,12 +1,12 @@
-## Victor Faruna
+## Hi, I'm Faruna
 
-Building infrastructure that powers digital economies.
+I build infrastructure that powers digital economies.
 
 ---
 
 ## Focus
 
-I build production-grade systems at the intersection of:
+I prioritize building production-grade systems at the intersection of:
 
 - Fintech architecture  
 - Blockchain infrastructure  
