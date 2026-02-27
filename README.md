@@ -1,4 +1,4 @@
-## Hi, I'm Faruna
+## Hi, I'm Faruna...
 
 I build infrastructure that powers digital economies.
 
@@ -28,15 +28,6 @@ Building:
 - Team identity & financial coordination layers
 - Custodial UX for Web3-native workflows
 
----
-
-## Philosophy
-
-Software is leverage.  
-Infrastructure shapes power.  
-Financial systems define the future of work.
-
----
 
 ## Stack
 
