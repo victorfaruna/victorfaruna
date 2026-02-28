@@ -1,6 +1,6 @@
 # Victor Faruna
 
-> Infrastructure for the onchain workforce.
+> I build systems that work.
 
 ---
 
