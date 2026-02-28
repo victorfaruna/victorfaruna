@@ -1,40 +1,42 @@
-## Context
-I prioritize building production-grade systems at the intersection of:
+# Victor Faruna
 
-- Fintech architecture  
-- Blockchain infrastructure  
-- Scalable backend systems  
-- High-performance web & mobile applications  
+> Infrastructure for the onchain workforce.
 
-My work centers around building foundational layers, not surface features.
+---
 
+## Focus
 
-## Current Work
+| Area | Work |
+|------|------|
+| Financial Systems | Treasury, settlement, recurring execution |
+| Backend Architecture | High-availability APIs, distributed design |
+| Blockchain Infrastructure | Identity layers, payment coordination |
+| Product Engineering | Web & mobile systems at scale |
 
-Founder & Engineer @ Chainroll  
-Financial Operating System for onchain teams.
+---
 
-Building:
-- Treasury and wallet systems
-- Recurring payment infrastructure
-- Team identity & financial coordination layers
-- Custodial UX for Web3-native workflows
+## Current
 
+| Role | Scope |
+|------|-------|
+| Founder — Chainroll | Financial Operating System for onchain teams |
 
-## Philosophy
-
-Software is leverage.  
-Infrastructure shapes power.  
-Financial systems define the future of work.
-
+---
 
 ## Stack
 
-TypeScript • NestJS • React • Next.js • React Native  
-Solidity • Supabase • PostgreSQL  
-System architecture • API design • Production infrastructure
+| Core |
+|------|
+| TypeScript |
+| NestJS |
+| PostgreSQL |
+| React / Next.js |
+| React Native |
+| Solidity |
 
+---
 
-## Contact
+## Principle
 
-Open to meaningful collaborations and infrastructure-level problems.
+Software is leverage.  
+Infrastructure determines power.
