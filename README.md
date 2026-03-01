@@ -1,6 +1,6 @@
 # Victor Faruna
 
-> I build systems that work.
+ I build systems that work.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Current
+## Work
 
 | Role | Scope |
 |------|-------|
