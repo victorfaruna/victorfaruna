@@ -25,10 +25,10 @@
 
 ## Stack
 
-| Core |
-|------|
+| Core | Tools |
+|------|-------|
 | TypeScript |
-| NestJS |
+| NestJS | 
 | PostgreSQL |
 | React / Next.js |
 | React Native |
