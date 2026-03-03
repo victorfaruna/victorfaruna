@@ -25,8 +25,8 @@
 
 ## Stack
 
-| Core | Tools |
-|------|-------|
+| Core |
+|------|
 | TypeScript |
 | NestJS | 
 | PostgreSQL |
